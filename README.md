@@ -8,6 +8,7 @@
 ## Installation
 
 - clone the project inside your local develepment for php
+- change the  FILESYSTEM_DISK=local to public
 - create the database in your pc called . laravel
 - run composer install
 - php artisan storage:link
